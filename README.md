@@ -140,5 +140,3 @@ The results indicate:
 
 ---
 
-# 📂 Project Structure
-
